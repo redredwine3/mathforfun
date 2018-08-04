@@ -4,4 +4,4 @@ Goal: 200 Q completed by August 5, 2019
 
 1Q Down
 
-![Image of Euler]()
+![Image of Euler](euler.jpg)
